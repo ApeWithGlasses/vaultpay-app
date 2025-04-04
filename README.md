@@ -54,7 +54,7 @@ export const ENDPOINTS = {
 
 1. Inicia el servidor de desarrollo:
 ```bash
-npm start
+npm run start
 # o
 yarn start
 ```
