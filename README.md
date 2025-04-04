@@ -14,7 +14,7 @@ VaultPay es una aplicación móvil desarrollada con React Native y Expo que perm
 
 1. Clona el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/ApeWithGlasses/vaultpay-app
 cd vaultpay-app
 ```
 
