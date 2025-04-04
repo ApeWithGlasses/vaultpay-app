@@ -143,15 +143,3 @@ vaultpay-app/
 3. **Errores de autenticación**
    - Verifica que el token se esté almacenando correctamente
    - Asegúrate de que las credenciales sean correctas
-
-## Contribución
-
-1. Haz un fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles. 
