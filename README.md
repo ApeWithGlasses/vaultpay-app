@@ -20,7 +20,7 @@ cd vaultpay-app
 
 2. Instala las dependencias:
 ```bash
-npm install
+npm run install
 # o si usas yarn
 yarn install
 ```
