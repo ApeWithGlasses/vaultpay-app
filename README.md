@@ -27,10 +27,12 @@ yarn install
 
 3. Configura las variables de entorno:
    - Abre el archivo `config/env.js`
+   - Ejecutar ipconfig en una ventana de comandos y obtener la dirección local.
    - Ajusta la URL del API según tu entorno:
+   - Reemplazar localhost por la dirección local de la máquina.
 ```javascript
 // Configuración base de la API
-export const API_URL = 'http://192.168.78.131:8080/api';
+export const API_URL = 'http://localhost:8080/api';
 
 // Endpoints disponibles
 export const ENDPOINTS = {
